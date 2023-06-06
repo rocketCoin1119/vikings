@@ -47,16 +47,3 @@ Example:[https://rinkeby.etherscan.io/address/0xa02A438C381305424db255E453986b0e
 - 🦾 [TypeChain Hardhat plugin](https://github.com/ethereum-ts/TypeChain/tree/master/packages/hardhat) - Automatically generate TypeScript bindings for smartcontracts while using Hardhat.
 - 🎨 [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) - standard for secure blockchain applications
 
-## Author
-
-👤 **Ankur Daharwal**
-
-- Website: [https://https://ankurdaharwal.wixsite.com/blockchain/](https://ankurdaharwal.wixsite.com/blockchain)
-- Twitter: [@An1cu12](https://twitter.com/An1cu12)
-- Github: [@ankurdaharwal](https://github.com/ankurdaharwal)
-
-## Show your support
-
-Give a ⭐️ if you liked this project and ☕ for me if you loved it!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/an1cu12)
